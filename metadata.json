@@ -1,0 +1,6 @@
+{
+  "uuid": "primary-monitor-alt-tab@local",
+  "name": "Primary Monitor Alt+Tab",
+  "description": "Hides windows on secondary monitors from the Alt+Tab switcher.",
+  "shell-version": ["50"]
+}
